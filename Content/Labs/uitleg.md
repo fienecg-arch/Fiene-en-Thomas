@@ -1,8 +1,10 @@
-# Labs
+# Simulaties
 
-In dit kwartaal staan er verschillende kleinere experimenten gepland.
-Deze experimenten zijn bedoeld om je op een praktische manier kennis te laten maken met de concepten die in de colleges en de simulaties aan bod komen.
+In dit kwartaal staan er verschillende simulaties gepland.
+Deze simulaties zijn bedoeld om je op een praktische manier kennis te laten maken met de concepten die in de colleges aan bod komen.
 
-Per week zetten we de relevante Jupyter Notebooks klaar op BrightSpace.
-Deze download je naar de juiste map (`Content/Labs`) en voeg je toe aan dit portfolio.
-In de toc (`toc.yml`) moeten deze bestanden ook toegevoegd worden zodat ze ook echt onderdeel zijn van je portfolio.
+Er staan al vier simulaties voor je klaar in de map `Content/PySim`.
+In week twee we de resterende simulaties voor je klaar op BrightSpace.
+Deze download je naar de juiste map (`Content/PySim`) en voeg je toe aan dit portfolio.
+In de toc (`toc.yml`) staan deze simulaties al, maar zijn ze wel uitgecomment.
+Je moet deze regels dus even decommenten zodat ze ook echt onderdeel zijn van je portfolio.
